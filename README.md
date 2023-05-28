@@ -8,14 +8,14 @@ Every issue of the Maroon available to scrape from campus publications
 
 The number of issues published each year that are available from campus publications
 
-## cleaning_txt_output
+## cleaning_txt_output.ipynb
 
 Cleaning code for raw OCR output from ABBYY
 
-## maroon_scraping
+## maroon_scraping.ipynb
 
 Campus publications scraping code
 
-## maroon_ner
+## maroon_ner.ipynb
 
 Code for extrating addresses. Very incomplete and messy.
